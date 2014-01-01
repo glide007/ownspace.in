@@ -7,7 +7,8 @@ AUTHOR = u'glide007'
 AUTHOR_EMAIL = u'glide007@ownspace.in'
 SITENAME = u'OwnSpace (glide007)'
 TAGLINE = 'trying to be social!'
-SITEURL = 'https://www.ownspace.in/'
+SITEURL = 'http://192.227.233.84/'
+#SITEURL = 'https://www.ownspace.in/'
 DEFAULT_DATE_FORMAT = ('%d-%m-%Y')
 
 TIMEZONE = 'Asia/Calcutta'
@@ -98,4 +99,4 @@ SITEMAP = {
 }
 
 # can be useful in development, but set to False when you're ready to publish
-RELATIVE_URLS = False
+RELATIVE_URLS = True 
