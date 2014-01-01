@@ -1,6 +1,6 @@
 Hello world!
 ############
-:date: 2011-08-15 09:52
+:date: 2014-01-01 17:52
 :tags: random
 :slug: hello-world
 
@@ -23,4 +23,7 @@ After much of deliberation on what to write as my first post my new/recreated bl
     	printf("Hello World");
     }
 
-I am alo not going to promise which kind of article I am going to write, at the same time I am promising my self, that I will try to be honest with me and try to write as much as I can with limitd time I get out of my work and family.
+I am also not going to promise which kind of article I am going to write, at the same time I am promising my self, that I will try to be honest with me and try to write as much as I can with limited time I get out of my work and family.
+
+Thanks to `Silviu Tantos <http://razius.com/>`_ for inspiring me to come back to real world!
+
