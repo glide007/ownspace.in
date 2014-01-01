@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://192.227.233.84'
+SITEURL = 'https://www.ownspace.in'
 FEED_DOMAIN = SITEURL
 RELATIVE_URLS = False
 
